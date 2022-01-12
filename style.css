@@ -1,0 +1,32 @@
+h1{
+    color:brown;
+    justify-content: center;
+}
+/*{
+    border:solid;
+}*/
+.header{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #808080;
+}
+
+p{
+    font-size: 20px;
+    color: #000000;
+}
